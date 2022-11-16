@@ -1,14 +1,14 @@
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/itsnebulalol?logo=github&style=for-the-badge&logoColor=white)](https://github.com/itsnebulalol)
+[![GitHub followers](https://img.shields.io/github/followers/ImUltik?logo=github&style=for-the-badge&logoColor=white)](https://github.com/ImUltik)
 ![Powered by Black Magic](https://img.shields.io/static/v1?label=Powered%20By&message=Black%20Magic&color=black&style=for-the-badge&logo=github-sponsors&logoColor=white)
 ![Contains Tasty Spaghetti Code](https://img.shields.io/static/v1?label=Contains&message=Tasty%20Spaghetti%20Code&color=yellow&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![It Works, Somehow](https://img.shields.io/static/v1?label=It%20Works&message=Somehow&color=green&style=for-the-badge&logo=broadcom&logoColor=white)
-<h1>Hi, I'm Nebula!</h1>
+<h1>Hi, I'm Ferry!</h1>
 </div>
 
 ```py
-class Nebula:
+class Ferry:
     working_on = [ "palera1n", "Sentiment", "Oxygen*", "sentimenthub.xyz" ]
     favorite_languages = [ "Python", "Lua/C+" ]
     learning = [ "Svelte", "Typescript", "Java" ]
