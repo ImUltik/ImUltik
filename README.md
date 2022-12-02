@@ -19,7 +19,7 @@ class Ferry:
 ---
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+📊 **This Month I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Spain/Madrid
@@ -36,6 +36,6 @@ VS Code                  16 hrs 44 mins      ███████████�
 ```
 
 
- Last Updated on 16/11/2022 15:36:31
+ Last Updated on 12/2/2022 21:16:50
 <!--END_SECTION:waka-->
 
