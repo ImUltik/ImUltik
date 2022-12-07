@@ -11,7 +11,7 @@
 class Ferry:
     working_on = [ "palera1n", "Sentiment", "Oxygen*", "sentimenthub.xyz" ]
     favorite_languages = [ "Python", "Lua", "Java" ]
-    learning = [ "Svelte", "Typescript", "" ]
+    learning = [ "Svelte", "Typescript", "Swift" ]
    
     # Please encrypt your emails if necessary
     email = "ferry@ethone.pro"
