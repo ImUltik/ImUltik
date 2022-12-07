@@ -10,8 +10,8 @@
 ```py
 class Ferry:
     working_on = [ "palera1n", "Sentiment", "Oxygen*", "sentimenthub.xyz" ]
-    favorite_languages = [ "Python", "Lua/C+" ]
-    learning = [ "Svelte", "Typescript", "Java" ]
+    favorite_languages = [ "Python", "Lua", "Java" ]
+    learning = [ "Svelte", "Typescript", "" ]
    
     # Please encrypt your emails if necessary
     email = "ferry@ethone.pro"
@@ -27,8 +27,8 @@ class Ferry:
 💬 Programming Languages: 
 Lua                      4 hrs 52 mins       ████████████░░░░░░░░░░░░░   30.52% 
 Python                   12 hrs 1 mins       ███████░░░░░░░░░░░░░░░░░░   37.20% 
-C+                        55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.48% 
-Java                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.53%
+C+                       55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.48% 
+Java                     8 hrs mins          ███████░░░░░░░░░░░░░░░░░░░░░   24.40%
 
 🔥 Editors: 
 VS Code                  16 hrs 44 mins      █████████████████████████   100.0%
