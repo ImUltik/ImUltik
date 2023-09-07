@@ -10,7 +10,7 @@
 ```py
 class Ferry:
     working_on = [ "UtahLang", "Boronide", "Arlon"]
-    favorite_languages = [ "Python", "Lua", "Utah", "Swift" ]
+    favorite_languages = [ "Python", "Lua", "Utah", "Swift"]
     learning = [ "Svelte", "Typescript" ]
    
     # Please encrypt your emails if necessary
