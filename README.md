@@ -9,12 +9,12 @@
 
 ```py
 class Ferry:
-    working_on = [ "palera1n", "Sentiment", "Oxygen*", "sentimenthub.xyz" ]
-    favorite_languages = [ "Python", "Lua", "Java" ]
-    learning = [ "Svelte", "Typescript", "Swift" ]
+    working_on = [ "UtahLang", "Boronide", "Arlon"]
+    favorite_languages = [ "Python", "Lua", "Utah", "Swift" ]
+    learning = [ "Svelte", "Typescript" ]
    
     # Please encrypt your emails if necessary
-    email = "ferry@ethone.pro"
+    email = "ferry@nigge.rs"
 ```
 ---
 
@@ -32,10 +32,11 @@ Java                     8 hrs mins          ███████░░░░�
 
 🔥 Editors: 
 VS Code                  16 hrs 44 mins      █████████████████████████   100.0%
+WebStorm                 12 hrs 5 mins      ███████████████████████░░░   80.0%
 
 ```
 
 
- Last Updated on 12/2/2022 21:16:50
+ Last Updated on 09/7/2023 12:26:43
 <!--END_SECTION:waka-->
 
