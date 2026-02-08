@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ferry and I'm a 16 year old student from Spain</h2>
+<h2 align="left"></h2>
 
 ###
 
